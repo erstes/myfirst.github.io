@@ -37,11 +37,11 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 ## Licences
 The contents of this website are
-© 2021 under the terms of the **MIT License**.
+© 2021 under the terms of the ***MIT License***.
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/). *Respectfully to Code makers*
 
-```markdown
-Syntax highlighted code block
+
+##
 
 My own work (if any) is licenced under:
 
