@@ -2,7 +2,7 @@
 
 This is my very first attempt to use github...
 
-Everything that is originated from me is under *0BSD* Licence.
+Everything that is originated from me is under *0BSD* Licence (https://spdx.org/licenses/0BSD.html).
 
 
 
