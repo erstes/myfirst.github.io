@@ -6,6 +6,8 @@ Everything that is originated from me is under *0BSD* Licence (https://spdx.org/
 
 
 
+## License
+
 BSD Zero Clause License
 
 Copyright (C) 2021 by ErsteSchild <ersteschild@gmail.com>
